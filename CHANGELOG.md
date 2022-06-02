@@ -34,7 +34,7 @@
 
 ---
 
-## v1.0.1.5
+## v1.0.1.5（已发布）
 
 > **jvncorelibv1.x 版本采用 .NET Standard 2.1/.NET Framework 4.6.x 构建。**
 
